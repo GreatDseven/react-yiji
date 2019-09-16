@@ -13,7 +13,7 @@
     "redux-logger": "^3.0.6",
     "swiper": "^4.5.0"
   },
-  "homepage": "https://liuhaidan1025.io/react-yiji",
+  "homepage": "https://greatdseven.io/react-yiji",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
