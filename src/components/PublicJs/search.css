@@ -1,0 +1,16 @@
+.search {
+  background-image: url("https://dev.tencent.com/u/haidan1025/p/yiji/git/raw/master/4ce54af0-c57d-11e9-adc6-e50dc0111989.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: 31vw;
+  background-color: #f0f0f2;
+  height: 7vh;
+  text-align: right;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+}
+.search .iconfont {
+  font-size: 30px;
+  padding: 0 3vh;
+}

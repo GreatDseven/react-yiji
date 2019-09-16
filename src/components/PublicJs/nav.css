@@ -1,0 +1,18 @@
+.nav {
+  background-color: #000;
+  position: fixed;
+  bottom: 0;
+  height: 8vh;
+  width: 100vw;
+}
+.nav ul {
+  padding: 0;
+  margin: 0;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.nav ul li img {
+  width: 15vw;
+  padding-bottom: 2vh;
+}
